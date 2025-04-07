@@ -10,7 +10,7 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://b53fcd4c-b98b-479d-c98a-017e111544e7@47.76.194.126:56340?type=tcp&security=reality&sni=b76ce5d5.com&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&flow=xtls-rprx-vision&fp=chrome#【alice+claw】香港-老爷机专用
+vless://b53fcd4c-b98b-479d-c98a-017e111544e7@47.76.194.126:56341?type=tcp&security=reality&sni=b76ce5d5.com&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&flow=xtls-rprx-vision&fp=chrome#【alice+claw】香港-老爷机专用
 `
 
 //请将机场订阅链接填入上方
