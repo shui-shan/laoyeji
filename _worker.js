@@ -10,7 +10,7 @@ let SUBUpdateTime = 6; //更改此次设置订阅更新时间，单位小时
 
 //在以下输入您的自建节点链接或订阅链接，请保留双引号
 let MainData = `
-vless://a705833e-049d-4cd1-b89e-52ce4762dfcf@47.243.255.135:56340?type=tcp&security=reality&pbk=PXY5KhVEUvhZNdA8QYcmFR4h0DPqkCFQxINteIheQEc&fp=chrome&sni=299b6f6c.com&sid=6a0abc6c9242&spx=%2F&flow=xtls-rprx-vision#%E9%A6%99%E6%B8%AF-%E8%80%81%E7%88%B7%E6%9C%BA
+vless://a705833e-049d-4cd1-b89e-52ce4762dfcf@47.243.255.135:56340?type=tcp&security=reality&pbk=PXY5KhVEUvhZNdA8QYcmFR4h0DPqkCFQxINteIheQEc&fp=chrome&sni=music.apple.com&sid=6a0abc6c9242&spx=%2F&flow=xtls-rprx-vision#%E9%A6%99%E6%B8%AF-%E8%80%81%E7%88%B7%E6%9C%BA
 `
 
 //请将机场订阅链接填入上方
